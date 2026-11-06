@@ -44,24 +44,4 @@ Design the database with tables for Customer, Account, and Transaction.
 
 # RESULT:
 Thus, the UML diagrams for the ATM Banking System were designed successfully to represent its structure, functionality, and interactions between the customer, manager, employee, and ATM.
-=======
-
-
-## Class Diagram  
-
-
-## Activity Diagram 
-
-
-## Sequence Diagram  
-
-
-## Communication Diagram 
-
-
-## Package Diagram  
-
-
-# RESULT:
-Thus, the UML diagrams for the ATM Banking System were designed successfully to represent its structure, functionality, and interactions between the customer, manager, employee, and ATM.
 
